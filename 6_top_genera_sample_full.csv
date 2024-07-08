@@ -1,0 +1,1086 @@
+;sample_full;tax_rank;taxid;abundance;Kingdom;Phylum;Class;Order;Family;Genus;Species
+1;ProCg1;6;N60685_25506;0.023041085;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+2;ProCg2;3;N60685_25506;0.035657325;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+3;ProCg3;4;N60685_25506;0.034807535;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+4;ProCk1;7;N60685_25506;0.024687855;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+5;ProCk2;12;N60685_25506;0.016771644;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+6;ProCk3;17;N60685_25506;0.011836093;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+7;ProPAaltg1;7;N60685_25506;0.016146223;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+8;ProPAaltg2;9;N60685_25506;0.014060102;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+9;ProPAaltg3;10;N60685_25506;0.014233733;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+10;ProPAaltk3;10;N60685_25506;0.017963314;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+11;ProPAneug2;20;N60685_25506;0.005728815;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+12;ProPAneug3;10;N60685_25506;0.019406393;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+13;ProPSaltg1;9;N60685_25506;0.017630107;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+14;ProLAaltg2;19;N47886_3911;0.003775835;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+15;ProLAneug1;6;N47886_3911;0.024147183;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+16;ProLAneug2;9;N47886_3911;0.014500084;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+17;ProLAneug3;7;N47886_3911;0.02343641;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+18;ProLFneug1;8;N47886_3911;0.005414882;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+19;ProLFneug2;11;N47886_3911;0.005715325;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+20;ProLFneug3;8;N47886_3911;0.004697003;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+21;ProPAneug1;10;N47886_3911;0.025328904;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+22;ProPAneug2;11;N47886_3911;0.009526568;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+23;ProPSaltg3;19;N47886_3911;0.003345555;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+24;ProPSneug1;7;N47886_3911;0.032452325;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Tahibacter;NA
+25;ProPAaltk2;15;N68782_2085;0.014164306;Bacteria;Bdellovibrionota;Oligoflexia;Oligoflexales;Oligoflexaceae;Oligoflexaceae Family;NA
+26;ProPAaltg1;20;N27977_2064;0.005351838;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;NA
+27;ProPAneuk1;6;N27977_2064;0.038095238;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;NA
+28;ProPAneuk3;13;N27977_2064;0.019380487;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;NA
+29;ProPSneuk1;16;N27977_2064;0.009617787;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;NA
+30;ProLAaltg1;20;N12526_1578;0.003499022;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+31;ProLAaltg3;16;N12526_1578;0.012357217;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+32;ProLAneug2;16;N12526_1578;0.00809307;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+33;ProLAneug3;13;N12526_1578;0.014229249;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+34;ProLFaltk3;20;N12526_1578;0.007491949;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+35;ProLFneug3;17;N12526_1578;0.001683319;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+36;ProPSaltg3;10;N12526_1578;0.005499542;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+37;ProPSneug2;6;N12526_1578;0.024694694;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+38;ProPSneug3;12;N12526_1578;0.015125274;Bacteria;Acidobacteriota;Holophagae;Acanthopleuribacterales;Acanthopleuribacteraceae;Acanthopleuribacter;NA
+39;ProPAaltg1;2;N43590_3596;0.060389596;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;Pseudohongiella;NA
+40;ProPAaltg2;5;N43590_3596;0.023317986;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;Pseudohongiella;NA
+41;ProPAaltg3;2;N43590_3596;0.183754281;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;Pseudohongiella;NA
+42;ProPAaltk1;16;N43590_3596;0.015576897;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;Pseudohongiella;NA
+43;ProPAaltg1;14;N22467_2379;0.006848538;Bacteria;Bacteroidota;Kapabacteria;Kapabacteriales;Kapabacteriales_unclassified;Kapabacteriales_unclassified;NA
+44;ProPAaltk1;7;N22467_2379;0.030648348;Bacteria;Bacteroidota;Kapabacteria;Kapabacteriales;Kapabacteriales_unclassified;Kapabacteriales_unclassified;NA
+45;ProPAaltk3;18;N22467_2379;0.0100253;Bacteria;Bacteroidota;Kapabacteria;Kapabacteriales;Kapabacteriales_unclassified;Kapabacteriales_unclassified;NA
+46;ProPSaltg3;13;N54184_1991;0.005453712;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;[Agitococcus] lubricus group;NA
+47;ProPSneug1;20;N54184_1991;0.009233857;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;[Agitococcus] lubricus group;NA
+48;ProPSneuk3;11;N54184_1991;0.014702279;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;[Agitococcus] lubricus group;NA
+49;ProLAaltg2;12;N41305_1384;0.007352941;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;OM27 clade;NA
+50;ProPSaltk3;11;N41305_1384;0.01515305;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;OM27 clade;NA
+51;ProCk1;19;N56691_1267;0.010641317;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Blastopirellula;NA
+52;ProLAaltg1;6;N20846_17403;0.011732016;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+53;ProLAaltg3;12;N20846_17403;0.01536864;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+54;ProLAneug1;1;N20846_17403;0.299923342;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+55;ProLAneuk1;8;N20846_17403;0.040935673;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+56;ProLAneuk2;6;N20846_17403;0.046947519;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+57;ProLAneuk3;6;N20846_17403;0.02587729;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+58;ProLFaltg2;7;N20846_17403;0.023854962;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+59;ProLFaltg3;15;N20846_17403;0.002441773;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+60;ProLFaltk1;16;N20846_17403;0.013634386;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+61;ProLFneug1;4;N20846_17403;0.009431659;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+62;ProLFneug2;2;N20846_17403;0.031252436;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+63;ProLFneug3;4;N20846_17403;0.016697437;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+64;ProLFneuk1;7;N20846_17403;0.017090139;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+65;ProLFneuk3;2;N20846_17403;0.107167568;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+66;ProPAaltg1;16;N20846_17403;0.005941447;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+67;ProPAaltg3;19;N20846_17403;0.007170377;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+68;ProPAaltk3;20;N20846_17403;0.009519292;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+69;ProPAneug1;17;N20846_17403;0.008531561;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+70;ProPAneug2;3;N20846_17403;0.077178076;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+71;ProPAneug3;7;N20846_17403;0.03334535;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+72;ProPSaltg1;6;N20846_17403;0.02652992;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+73;ProPSaltg2;11;N20846_17403;0.008791658;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+74;ProPSaltk1;19;N20846_17403;0.006703001;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+75;ProCg1;9;N9811_1139;0.016328749;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+76;ProCg2;5;N9811_1139;0.029733424;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+77;ProCk1;17;N9811_1139;0.011137911;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+78;ProCk2;5;N9811_1139;0.024689524;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+79;ProCk3;14;N9811_1139;0.012959772;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+80;ProLFaltg1;17;N9811_1139;0.011354888;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+81;ProPAaltg1;13;N9811_1139;0.006961925;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+82;ProPAaltg3;14;N9811_1139;0.010809075;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+83;ProPAaltk1;12;N9811_1139;0.017322979;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+84;ProPAneug1;18;N9811_1139;0.008265781;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+85;ProPAneug3;13;N9811_1139;0.017844268;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+86;ProPSaltg2;12;N9811_1139;0.008382744;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+87;ProPSneug3;19;N25381_1087;0.009814109;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Pasteurellaceae;Seminibacterium;NA
+88;ProPAneuk3;19;N28987_830;0.010601292;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Azospira;NA
+89;ProPSaltk1;18;N28987_830;0.007016225;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Azospira;NA
+90;ProCk2;9;N30799_1338;0.018093767;Bacteria;Bacteroidota;Bacteroidia;Cytophagales;Microscillaceae;Microscillaceae Family;NA
+91;ProLFaltk3;17;N49271_2369;0.009136285;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Order;Rhodospirillales Order;NA
+92;ProLFneuk1;18;N49271_2369;0.008045977;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillales Order;Rhodospirillales Order;NA
+93;ProLFaltg1;13;N53468_1497;0.013760585;Bacteria;Myxococcota;Polyangia;Nannocystales;Nannocystaceae;Nannocystis;NA
+94;ProPSneug3;18;N53468_1497;0.010045029;Bacteria;Myxococcota;Polyangia;Nannocystales;Nannocystaceae;Nannocystis;NA
+95;ProCk3;12;N28291_9527;0.018428347;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+96;ProLAneug2;11;N28291_9527;0.012645422;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+97;ProLAneuk2;4;N28291_9527;0.082470546;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+98;ProLFaltk2;8;N28291_9527;0.024905503;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+99;ProLFaltk3;6;N28291_9527;0.034774317;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+100;ProPAaltk3;13;N28291_9527;0.013820367;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+101;ProPAneuk1;4;N28291_9527;0.062770563;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+102;ProPAneuk2;17;N28291_9527;0.010119948;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+103;ProPSaltg2;17;N28291_9527;0.005152321;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+104;ProPSaltk1;6;N28291_9527;0.022364217;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+105;ProPSaltk2;8;N28291_9527;0.037371405;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+106;ProPSaltk3;9;N28291_9527;0.021169702;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+107;ProPSneug3;13;N28291_9527;0.014086133;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+108;ProPSneuk3;3;N28291_9527;0.077513681;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+109;ProCg1;18;N11703_2845;0.010253349;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;NA
+110;ProPAneug1;20;N11703_2845;0.007627907;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Gemmobacter;NA
+111;ProCk1;9;N28896_1217;0.019296254;Bacteria;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata;NA
+112;ProCk3;20;N28896_1217;0.010412765;Bacteria;Planctomycetota;Planctomycetes;Gemmatales;Gemmataceae;Gemmata;NA
+113;ProLAaltk1;7;N53022_1927;0.020452745;Bacteria;Proteobacteria;Alphaproteobacteria;Elsterales;Elsteraceae;Elstera;NA
+114;ProLAneug3;5;N53022_1927;0.028365496;Bacteria;Proteobacteria;Alphaproteobacteria;Elsterales;Elsteraceae;Elstera;NA
+115;ProPAaltk2;20;N53022_1927;0.011331445;Bacteria;Proteobacteria;Alphaproteobacteria;Elsterales;Elsteraceae;Elstera;NA
+116;ProLAaltg1;12;N29754_6766;0.006483483;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+117;ProLAaltg3;13;N29754_6766;0.014330218;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+118;ProLAaltk1;6;N29754_6766;0.029166767;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+119;ProLAneug1;2;N29754_6766;0.055385205;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+120;ProLAneuk1;6;N29754_6766;0.042606516;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+121;ProLAneuk2;7;N29754_6766;0.032845412;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+122;ProLAneuk3;4;N29754_6766;0.054899581;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+123;ProLFaltg2;13;N29754_6766;0.011768448;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+124;ProLFaltg3;12;N29754_6766;0.003193088;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+125;ProLFaltk2;9;N29754_6766;0.022493797;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+126;ProLFneug1;17;N29754_6766;0.002862786;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+127;ProLFneug3;20;N29754_6766;0.001466116;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+128;ProLFneuk2;10;N29754_6766;0.014108944;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+129;ProPAaltk2;2;N29754_6766;0.073654391;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+130;ProPAneug1;15;N29754_6766;0.011906977;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+131;ProPAneug2;17;N29754_6766;0.007273664;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+132;ProPAneug3;11;N29754_6766;0.018354963;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+133;ProPAneuk1;10;N29754_6766;0.021645022;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+134;ProPAneuk2;12;N29754_6766;0.01657541;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+135;ProPAneuk3;9;N29754_6766;0.036607587;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+136;ProPSaltg1;15;N29754_6766;0.010764536;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+137;ProPSaltg2;14;N29754_6766;0.006297281;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+138;ProPSaltk1;8;N29754_6766;0.014470964;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+139;ProPSaltk2;3;N29754_6766;0.055357268;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+140;ProPSaltk3;15;N29754_6766;0.010878593;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+141;ProPSneug2;14;N29754_6766;0.010483087;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+142;ProPSneug3;11;N29754_6766;0.016222145;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+143;ProPSneuk2;4;N29754_6766;0.052298153;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+144;ProPSneuk3;10;N29754_6766;0.019031283;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+145;ProCk2;4;N62214_45676;0.028952998;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+146;ProCk3;8;N62214_45676;0.024646041;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+147;ProLAaltg1;2;N62214_45676;0.040856231;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+148;ProLAaltg2;2;N62214_45676;0.056438792;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+149;ProLAaltg3;5;N62214_45676;0.046728972;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+150;ProLAaltk1;1;N62214_45676;0.351153468;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+151;ProLAaltk3;13;N62214_45676;0.014388894;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+152;ProLAneug1;15;N62214_45676;0.016864699;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+153;ProLAneug3;17;N62214_45676;0.010090677;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+154;ProLAneuk1;9;N62214_45676;0.029239766;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+155;ProLAneuk2;3;N62214_45676;0.123438058;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+156;ProLAneuk3;1;N62214_45676;0.249227544;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+157;ProLFaltg1;10;N62214_45676;0.017898383;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+158;ProLFaltk3;4;N62214_45676;0.045837104;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+159;ProLFneuk1;3;N62214_45676;0.133393829;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+160;ProLFneuk2;1;N62214_45676;0.38129089;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+161;ProPAaltg2;1;N62214_45676;0.394772018;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+162;ProPAaltg3;3;N62214_45676;0.123501712;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+163;ProPAaltk1;4;N62214_45676;0.049257915;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+164;ProPAaltk2;5;N62214_45676;0.056657224;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+165;ProPAaltk3;1;N62214_45676;0.285736875;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+166;ProPAneug1;2;N62214_45676;0.111654485;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+167;ProPAneug2;16;N62214_45676;0.007949535;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+168;ProPAneuk1;3;N62214_45676;0.097691198;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+169;ProPAneuk3;5;N62214_45676;0.063276462;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+170;ProPSaltg1;1;N62214_45676;0.249364299;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+171;ProPSaltg2;5;N62214_45676;0.02367614;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+172;ProPSaltk1;1;N62214_45676;0.545950009;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+173;ProPSaltk2;1;N62214_45676;0.259920218;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+174;ProPSaltk3;4;N62214_45676;0.068897757;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+175;ProPSneug1;1;N62214_45676;0.124924724;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+176;ProPSneug2;1;N62214_45676;0.310169675;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+177;ProPSneug3;1;N62214_45676;0.202921141;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+178;ProPSneuk1;4;N62214_45676;0.085311017;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+179;ProPSneuk2;2;N62214_45676;0.074762996;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+180;ProPSneuk3;2;N62214_45676;0.080780854;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+181;ProLAneuk3;10;N25539_1364;0.014952549;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Denitratisoma;NA
+182;ProCg1;13;N52734_21877;0.012854547;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+183;ProLAaltk1;3;N52734_21877;0.094773988;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+184;ProLAaltk2;2;N52734_21877;0.10373673;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+185;ProLAaltk3;3;N52734_21877;0.065494759;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+186;ProLFaltg2;3;N52734_21877;0.053435115;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+187;ProLFneuk2;3;N52734_21877;0.047628228;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+188;ProPAaltk2;13;N52734_21877;0.016997167;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+189;ProPAneug2;6;N52734_21877;0.031605034;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+190;ProPAneuk1;2;N52734_21877;0.130880231;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+191;ProPAneuk2;3;N52734_21877;0.04572086;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+192;ProPSaltk3;5;N52734_21877;0.035188299;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+193;ProPSneug1;5;N52734_21877;0.037671462;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+194;ProCg1;4;N7145_7566;0.031374715;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+195;ProLAaltk1;15;N7145_7566;0.008666011;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+196;ProLAneuk1;23;N7145_7566;0.011695906;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+197;ProLAneuk2;16;N7145_7566;0.009014638;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+198;ProLFaltk3;19;N7145_7566;0.007657355;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+199;ProLFneuk2;9;N7145_7566;0.014169187;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+200;ProLFneuk3;6;N7145_7566;0.026108108;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+201;ProPAaltk2;9;N7145_7566;0.028328612;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+202;ProPAneuk1;19;N7145_7566;0.010533911;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+203;ProPAneuk2;13;N7145_7566;0.014061401;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+204;ProPSaltk2;10;N7145_7566;0.023514592;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+205;ProPSneuk2;17;N7145_7566;0.01428764;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+206;ProPSneuk3;12;N7145_7566;0.012905334;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Undibacterium;NA
+207;ProCg1;16;N5391_3399;0.010890286;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Parvibium;NA
+208;ProCg3;18;N5391_3399;0.012489762;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Parvibium;NA
+209;ProLAneug1;19;N34179_2184;0.013031813;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+210;ProLAneug3;16;N34179_2184;0.010695187;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+211;ProLFneug1;11;N34179_2184;0.004194314;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+212;ProLFneug2;18;N34179_2184;0.002987556;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+213;ProPAneug2;19;N34179_2184;0.005760999;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+214;ProPSaltg1;17;N34179_2184;0.010679776;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+215;ProPSaltg3;17;N34179_2184;0.003895509;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+216;ProPSneug1;18;N34179_2184;0.013850786;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+217;ProPSneug3;15;N34179_2184;0.013797483;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Rhodanobacteraceae Family;NA
+218;ProCg1;15;N44802_1051;0.011246615;Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Hyphomicrobiaceae;Hyphomicrobium;NA
+219;ProCg3;13;N54361_1855;0.014332514;Bacteria;Dependentiae;Babeliae;Babeliales;UBA12411;UBA12411_unclassified;NA
+220;ProLAneuk2;18;N54361_1855;0.006961799;Bacteria;Dependentiae;Babeliae;Babeliales;UBA12411;UBA12411_unclassified;NA
+221;ProPAneuk2;5;N54361_1855;0.038668854;Bacteria;Dependentiae;Babeliae;Babeliales;UBA12411;UBA12411_unclassified;NA
+222;ProPAneuk3;15;N54361_1855;0.016730164;Bacteria;Dependentiae;Babeliae;Babeliales;UBA12411;UBA12411_unclassified;NA
+223;ProCg3;2;N50894_9206;0.042383292;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+224;ProCk2;7;N50894_9206;0.022208687;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+225;ProLAaltg1;5;N50894_9206;0.014819389;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+226;ProLAneug1;3;N50894_9206;0.034112687;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+227;ProLAneuk1;3;N50894_9206;0.081592871;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+228;ProLAneuk3;5;N50894_9206;0.04822335;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+229;ProPAneuk3;4;N50894_9206;0.063939043;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+230;ProPSneug2;3;N50894_9206;0.0980763;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+231;ProPSneuk3;7;N50894_9206;0.025238912;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+232;ProLFneuk1;14;N2603_1049;0.010284332;Bacteria;Firmicutes;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;NA
+233;ProPAneuk3;14;N2603_1049;0.018055325;Bacteria;Firmicutes;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;NA
+234;ProPSneuk2;14;N2603_1049;0.020532866;Bacteria;Firmicutes;Bacilli;Erysipelotrichales;Erysipelotrichaceae;Erysipelothrix;NA
+235;ProPSneuk2;15;N18211_970;0.019454554;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Williamwhitmaniaceae;Williamwhitmania;NA
+236;ProPSneuk3;20;N18211_970;0.010536633;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Williamwhitmaniaceae;Williamwhitmania;NA
+237;ProLAneuk1;4;N11574_1433;0.055416319;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospirillaceae;Magnetospirillum;NA
+238;ProPSneuk2;9;N11574_1433;0.036842342;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Magnetospirillaceae;Magnetospirillum;NA
+239;ProLFaltg2;12;N70232_154;0.013676845;Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Isochromatium;NA
+240;ProLAaltk1;5;N63722_1756;0.039993278;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Inhella;NA
+241;ProLAaltg1;10;N44349_2588;0.008541731;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+242;ProLAaltg3;19;N44349_2588;0.01007269;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+243;ProLAaltk2;16;N44349_2588;0.012526539;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+244;ProLAneug2;15;N44349_2588;0.008767493;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+245;ProLAneug3;11;N44349_2588;0.017019298;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+246;ProLFaltg1;18;N44349_2588;0.011258661;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+247;ProLFaltg2;17;N44349_2588;0.008905852;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+248;ProLFaltg3;18;N44349_2588;0.001972201;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+249;ProLFaltk1;12;N44349_2588;0.018451516;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+250;ProLFaltk2;18;N44349_2588;0.013055678;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+251;ProLFneug2;13;N44349_2588;0.004468345;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+252;ProLFneuk1;17;N44349_2588;0.009013914;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+253;ProPAaltg1;15;N44349_2588;0.006077511;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+254;ProPAaltg3;16;N44349_2588;0.008668664;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+255;ProPAaltk1;8;N44349_2588;0.023296421;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+256;ProPAneug1;11;N44349_2588;0.022325581;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+257;ProPAneug3;12;N44349_2588;0.018144677;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+258;ProPSaltg1;12;N44349_2588;0.014324462;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+259;ProPSaltg2;7;N44349_2588;0.010345533;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+260;ProPSneug1;8;N44349_2588;0.031850117;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+261;ProPSneug2;15;N44349_2588;0.010320977;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+262;ProLAaltg1;1;N63424_189047;0.674590923;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+263;ProLAaltg2;1;N63424_189047;0.67945151;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+264;ProLAaltg3;9;N63424_189047;0.016510903;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+265;ProLAaltk1;9;N63424_189047;0.019708572;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+266;ProLAaltk2;3;N63424_189047;0.08462845;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+267;ProLAneug1;5;N63424_189047;0.024338827;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+268;ProLAneug2;3;N63424_189047;0.083796999;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+269;ProLAneug3;1;N63424_189047;0.311229947;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+270;ProLAneuk1;11;N63424_189047;0.025062657;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+271;ProLAneuk2;5;N63424_189047;0.061049625;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+272;ProLAneuk3;7;N63424_189047;0.022015008;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+273;ProLFaltg1;1;N63424_189047;0.123845266;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+274;ProLFaltg2;1;N63424_189047;0.327926209;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+275;ProLFaltg3;1;N63424_189047;0.851239669;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+276;ProLFaltk1;1;N63424_189047;0.177236411;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+277;ProLFaltk2;3;N63424_189047;0.049973332;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+278;ProLFaltk3;1;N63424_189047;0.312482365;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+279;ProLFneug1;1;N63424_189047;0.83528994;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+280;ProLFneug2;1;N63424_189047;0.764606552;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+281;ProLFneug3;1;N63424_189047;0.822654214;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+282;ProLFneuk1;6;N63424_189047;0.019903206;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+283;ProLFneuk2;6;N63424_189047;0.019807945;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+284;ProPAaltg1;1;N63424_189047;0.487924349;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+285;ProPAaltg2;7;N63424_189047;0.020050498;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+286;ProPAaltg3;11;N63424_189047;0.014019692;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+287;ProPAaltk1;19;N63424_189047;0.013417268;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+288;ProPAaltk2;7;N63424_189047;0.042492918;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+289;ProPAaltk3;2;N63424_189047;0.086021505;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+290;ProPAneug1;1;N63424_189047;0.172784053;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+291;ProPAneug2;1;N63424_189047;0.407936661;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+292;ProPAneug3;1;N63424_189047;0.283525595;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+293;ProPAneuk1;13;N63424_189047;0.014862915;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+294;ProPAneuk2;14;N63424_189047;0.012037412;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+295;ProPAneuk3;3;N63424_189047;0.08331953;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+296;ProPSaltg1;13;N63424_189047;0.013561621;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+297;ProPSaltg2;1;N63424_189047;0.451891229;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+298;ProPSaltg3;1;N63424_189047;0.636984418;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+299;ProPSaltk1;2;N63424_189047;0.040844453;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+300;ProPSaltk2;6;N63424_189047;0.040940584;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+301;ProPSaltk3;3;N63424_189047;0.080667707;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+302;ProPSneug1;2;N63424_189047;0.108330545;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+303;ProPSneug2;8;N63424_189047;0.018102237;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+304;ProPSneug3;16;N63424_189047;0.011719201;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+305;ProPSneuk1;2;N63424_189047;0.141144142;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+306;ProPSneuk2;12;N63424_189047;0.02426203;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+307;ProPSneuk3;4;N63424_189047;0.046557216;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+308;ProPSneug2;18;N26372_1590;0.008429698;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;EC3_unclassified;EC3_unclassified;NA
+309;ProCg3;20;N69343_12286;0.011875512;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Noviherbaspirillum;NA
+310;ProCk2;1;N69343_12286;0.041683998;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Noviherbaspirillum;NA
+311;ProCk3;2;N69343_12286;0.037830549;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Noviherbaspirillum;NA
+312;ProLAaltk1;10;N65913_12447;0.014547375;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+313;ProLAaltk3;19;N65913_12447;0.008655819;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+314;ProLAneug1;9;N65913_12447;0.019356075;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+315;ProLAneug2;10;N65913_12447;0.014162873;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+316;ProLAneug3;2;N65913_12447;0.112206464;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+317;ProLFaltg1;3;N65913_12447;0.067167052;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+318;ProLFaltg2;11;N65913_12447;0.014312977;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+319;ProLFneug2;8;N65913_12447;0.008780817;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+320;ProPAaltg2;11;N65913_12447;0.012178821;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+321;ProPAaltk1;5;N65913_12447;0.037127234;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+322;ProPAneug3;20;N65913_12447;0.005437395;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+323;ProPAneuk2;11;N65913_12447;0.022689989;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+324;ProPSaltg3;16;N65913_12447;0.004812099;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+325;ProPSneug1;10;N65913_12447;0.025158916;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+326;ProPSneug2;4;N65913_12447;0.080622501;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+327;ProPSneug3;5;N65913_12447;0.031001039;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+328;ProPSneuk1;14;N65913_12447;0.010617037;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+329;ProPSneuk3;9;N65913_12447;0.020991587;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+330;ProLAaltg1;15;N15247_7213;0.005042709;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+331;ProLAaltg2;8;N15247_7213;0.009141494;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+332;ProLAaltg3;8;N15247_7213;0.018899273;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+333;ProLAaltk2;18;N15247_7213;0.010615711;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+334;ProLAneug1;17;N15247_7213;0.014181679;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+335;ProLAneug2;12;N15247_7213;0.012139605;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+336;ProLAneuk1;15;N15247_7213;0.015037594;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+337;ProLFneug2;12;N15247_7213;0.005091835;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+338;ProLFneug3;10;N15247_7213;0.00361099;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+339;ProLFneuk3;15;N15247_7213;0.011362162;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+340;ProPAaltg1;8;N15247_7213;0.016010159;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+341;ProPAaltg2;12;N15247_7213;0.011287688;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+342;ProPAaltg3;18;N15247_7213;0.007384418;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+343;ProPAneug2;13;N15247_7213;0.008721959;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+344;ProPSaltg1;19;N15247_7213;0.008815053;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+345;ProPSaltg3;5;N15247_7213;0.01223648;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+346;ProLAneuk3;12;N42471_3572;0.014345619;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Opitutaceae;Lacunisphaera;NA
+347;ProLFneug1;20;N42471_3572;0.002330175;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Opitutaceae;Lacunisphaera;NA
+348;ProLFneuk2;16;N42471_3572;0.009422027;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Opitutales;Opitutaceae;Lacunisphaera;NA
+349;ProCg1;11;N33606_6431;0.014943522;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+350;ProCg2;12;N33606_6431;0.012873092;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+351;ProCg3;15;N33606_6431;0.013718264;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+352;ProLAneug3;9;N33606_6431;0.019576843;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+353;ProLFneug2;15;N33606_6431;0.003611046;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+354;ProPAaltg1;19;N33606_6431;0.005578611;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+355;ProPSaltg2;13;N33606_6431;0.006583521;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Candidatus Megaira;NA
+356;ProLFaltk3;10;N855_4224;0.014701733;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Pedosphaerales;Pedosphaeraceae;Pedosphaeraceae Family;NA
+357;ProCg2;20;N8400_2662;0.010252905;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Planctomycetales Order;Planctomycetales Order;NA
+358;ProCk1;3;N8400_2662;0.037386493;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Planctomycetales Order;Planctomycetales Order;NA
+359;ProCk2;3;N8400_2662;0.034538594;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Planctomycetales Order;Planctomycetales Order;NA
+360;ProCk3;1;N8400_2662;0.080605289;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Planctomycetales Order;Planctomycetales Order;NA
+361;ProLAaltk1;13;N7386_14173;0.009362172;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+362;ProLAaltk2;8;N7386_14173;0.030488323;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+363;ProLAneuk2;9;N7386_14173;0.02302749;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+364;ProLFaltk2;6;N7386_14173;0.026946177;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+365;ProLFaltk3;3;N7386_14173;0.048619827;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+366;ProLFneuk1;9;N7386_14173;0.014186328;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+367;ProLFneuk2;7;N7386_14173;0.016205405;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+368;ProLFneuk3;9;N7386_14173;0.018356757;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+369;ProPAaltk1;3;N7386_14173;0.050820199;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+370;ProPAaltk3;12;N7386_14173;0.016318786;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+371;ProPAneuk2;7;N7386_14173;0.029656774;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+372;ProPAneuk3;2;N7386_14173;0.115289051;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+373;ProPSaltk1;15;N7386_14173;0.009835244;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+374;ProPSaltk2;9;N7386_14173;0.026243964;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+375;ProPSaltk3;6;N7386_14173;0.029333711;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+376;ProPSneuk1;3;N7386_14173;0.110667;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+377;ProPSneuk3;8;N7386_14173;0.022298456;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+378;ProLAaltk1;19;N33372_4247;0.00612142;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+379;ProLAaltk2;19;N33372_4247;0.010530786;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+380;ProLAneug2;18;N33372_4247;0.007418648;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+381;ProLAneuk1;17;N33372_4247;0.013923698;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+382;ProLFaltg3;20;N33372_4247;0.001784373;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+383;ProPAaltk1;6;N33372_4247;0.035886597;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+384;ProPSaltg1;16;N33372_4247;0.010679776;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+385;ProPSaltg2;20;N33372_4247;0.004538949;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+386;ProPSneuk1;19;N33372_4247;0.008118911;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Rhodanobacteraceae;Ahniella;NA
+387;ProPAneuk1;15;N11064_1549;0.013419913;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Candidatus Bealeia;NA
+388;ProCg1;20;N49137_1311;0.008961659;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellula;NA
+389;ProCg2;11;N49137_1311;0.014581909;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellula;NA
+390;ProCk2;13;N49137_1311;0.015092994;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellula;NA
+391;ProLAaltk3;17;N22382_8212;0.012688643;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+392;ProLAneug2;19;N22382_8212;0.007081437;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+393;ProLAneuk3;14;N22382_8212;0.011200618;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+394;ProLFaltg1;12;N22382_8212;0.014241724;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+395;ProLFaltg2;15;N22382_8212;0.011450382;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+396;ProLFaltk2;12;N22382_8212;0.016812374;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+397;ProLFneug1;15;N22382_8212;0.003062515;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+398;ProLFneug2;20;N22382_8212;0.002727769;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+399;ProLFneuk2;15;N22382_8212;0.009952167;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+400;ProLFneuk3;12;N22382_8212;0.014140541;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+401;ProPAaltg2;19;N22382_8212;0.007475618;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+402;ProPAaltk3;9;N22382_8212;0.018532574;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+403;ProPAneug1;12;N22382_8212;0.02041196;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+404;ProPAneug2;14;N22382_8212;0.008271378;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+405;ProPAneug3;16;N22382_8212;0.006999519;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+406;ProPSaltg1;18;N22382_8212;0.009154094;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+407;ProPSaltk2;17;N22382_8212;0.010357618;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+408;ProPSneug1;15;N22382_8212;0.018869187;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+409;ProPSneug2;9;N22382_8212;0.01572463;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+410;ProPSneug3;9;N22382_8212;0.020263249;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+411;ProPSneuk1;15;N22382_8212;0.010242318;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+412;ProCg1;8;N49583_4083;0.018137115;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+413;ProCg2;8;N49583_4083;0.0215311;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+414;ProCg3;6;N49583_4083;0.031326781;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+415;ProLAaltk1;20;N49583_4083;0.005881364;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+416;ProLAaltk3;7;N49583_4083;0.027414777;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+417;ProLFaltk1;8;N49583_4083;0.026876187;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+418;ProLFneuk1;13;N49583_4083;0.010405324;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+419;ProLFneuk3;13;N49583_4083;0.012237838;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+420;ProPAaltk1;18;N49583_4083;0.013738915;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+421;ProPAaltk2;12;N49583_4083;0.016997167;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+422;ProPAneuk1;20;N49583_4083;0.01010101;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+423;ProPSaltk3;18;N49583_4083;0.010432915;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+424;ProPSneug1;19;N49583_4083;0.012111074;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+425;ProPSneuk2;20;N49583_4083;0.011771577;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+426;ProPSneuk3;19;N49583_4083;0.011026709;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+427;ProLFaltg1;7;N58054_2533;0.029926867;Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales;Micavibrionaceae;Micavibrionaceae Family;NA
+428;ProLFaltg2;9;N58054_2533;0.021310433;Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales;Micavibrionaceae;Micavibrionaceae Family;NA
+429;ProLFaltk1;19;N58054_2533;0.012753722;Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales;Micavibrionaceae;Micavibrionaceae Family;NA
+430;ProPAaltk3;16;N58054_2533;0.01087919;Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales;Micavibrionaceae;Micavibrionaceae Family;NA
+431;ProPSaltg2;19;N58054_2533;0.004661623;Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales;Micavibrionaceae;Micavibrionaceae Family;NA
+432;ProLFneuk3;11;N49548_6918;0.016551351;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Cellvibrionaceae;Cellvibrio;NA
+433;ProCg3;10;N54995_6333;0.017199017;Bacteria;Proteobacteria;Alphaproteobacteria;Paracaedibacterales;Paracaedibacteraceae;Candidatus Finniella;NA
+434;ProLAaltg2;16;N54995_6333;0.004769475;Bacteria;Proteobacteria;Alphaproteobacteria;Paracaedibacterales;Paracaedibacteraceae;Candidatus Finniella;NA
+435;ProLAaltg3;17;N67867_6805;0.011838006;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+436;ProLAneug1;16;N67867_6805;0.0151399;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+437;ProLFaltg1;15;N67867_6805;0.012605851;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+438;ProLFaltg2;18;N67867_6805;0.007315522;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+439;ProLFneug3;5;N67867_6805;0.007846438;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+440;ProPAaltg2;8;N67867_6805;0.019604931;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+441;ProPAaltg3;12;N67867_6805;0.012628425;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+442;ProPAaltk1;20;N67867_6805;0.01116574;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+443;ProPAneug1;7;N67867_6805;0.034019934;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+444;ProPAneug2;8;N67867_6805;0.01737955;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+445;ProPAneug3;4;N67867_6805;0.062695266;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+446;ProPSaltg2;10;N67867_6805;0.009527704;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+447;ProPSaltk3;13;N67867_6805;0.01249924;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+448;ProLFneug2;19;N18370_3799;0.002961577;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;AAP99;NA
+449;ProPAneug1;4;N18370_3799;0.057222591;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;AAP99;NA
+450;ProPAneug2;7;N18370_3799;0.020952013;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;AAP99;NA
+451;ProPAneug3;6;N18370_3799;0.036018986;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;AAP99;NA
+452;ProCg2;10;N29777_6890;0.014581909;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+453;ProCk1;2;N29777_6890;0.043274688;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+454;ProCk3;5;N29777_6890;0.031463031;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+455;ProLAaltg2;15;N29777_6890;0.005166932;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+456;ProLAaltg3;14;N29777_6890;0.012461059;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+457;ProLAaltk2;10;N29777_6890;0.01940552;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+458;ProLAaltk3;2;N29777_6890;0.087808785;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+459;ProLAneug1;11;N29777_6890;0.018206209;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+460;ProLAneug2;20;N29777_6890;0.007081437;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+461;ProLAneug3;8;N29777_6890;0.022645896;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+462;ProLAneuk1;14;N29777_6890;0.019214703;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+463;ProLAneuk2;14;N29777_6890;0.01115673;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+464;ProLAneuk3;16;N29777_6890;0.009103951;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+465;ProLFaltk1;11;N29777_6890;0.020828249;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+466;ProLFaltk2;17;N29777_6890;0.015305058;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+467;ProLFneug3;19;N29777_6890;0.001520417;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+468;ProLFneuk1;8;N29777_6890;0.014216576;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+469;ProLFneuk2;20;N29777_6890;0.006602648;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+470;ProLFneuk3;8;N29777_6890;0.021935135;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+471;ProPAaltg2;6;N29777_6890;0.020050498;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+472;ProPAaltg3;17;N29777_6890;0.007705479;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+473;ProPAaltk2;17;N29777_6890;0.011331445;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+474;ProPAaltk3;4;N29777_6890;0.029949399;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+475;ProPAneuk1;12;N29777_6890;0.018181818;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+476;ProPAneuk2;8;N29777_6890;0.029337197;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+477;ProPAneuk3;10;N29777_6890;0.024681133;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+478;ProPSaltg1;14;N29777_6890;0.012120698;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+479;ProPSaltg2;15;N29777_6890;0.006092824;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+480;ProPSaltg3;15;N29777_6890;0.005178735;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+481;ProPSaltk1;13;N29777_6890;0.010774917;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+482;ProPSaltk2;16;N29777_6890;0.010497586;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+483;ProPSaltk3;10;N29777_6890;0.018495634;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+484;ProPSneug1;4;N29777_6890;0.045834727;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+485;ProPSneug2;10;N29777_6890;0.015346374;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+486;ProPSneug3;6;N29777_6890;0.023149752;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+487;ProPSneuk1;9;N29777_6890;0.016737447;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+488;ProPSneuk2;19;N29777_6890;0.011771577;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+489;ProCk1;12;N14464_508;0.016671396;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Nitrosomonadaceae;MND1;NA
+490;ProCk2;16;N14464_508;0.013607463;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Nitrosomonadaceae;MND1;NA
+491;ProCk3;19;N14464_508;0.010562589;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Nitrosomonadaceae;MND1;NA
+492;ProLFaltk3;15;N45735_1160;0.011811981;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfurisoma;NA
+493;ProLAaltg1;7;N43880_36659;0.011732016;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+494;ProLAaltg3;3;N43880_36659;0.083281412;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+495;ProLAaltk1;18;N43880_36659;0.006145426;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+496;ProLAaltk2;6;N43880_36659;0.045392781;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+497;ProLAaltk3;12;N43880_36659;0.016777675;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+498;ProLAneug1;13;N43880_36659;0.017439632;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+499;ProLAneug3;10;N43880_36659;0.019576843;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+500;ProLAneuk1;22;N43880_36659;0.011695906;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+501;ProLAneuk2;10;N43880_36659;0.019189575;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+502;ProLFaltg3;2;N43880_36659;0.019628099;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+503;ProLFaltk1;3;N43880_36659;0.04881853;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+504;ProLFaltk2;7;N43880_36659;0.025531619;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+505;ProLFneug1;2;N43880_36659;0.016244646;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+506;ProLFneug2;4;N43880_36659;0.023536747;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+507;ProLFneug3;2;N43880_36659;0.039232189;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+508;ProPAaltg1;10;N43880_36659;0.00975123;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+509;ProPAaltk3;5;N43880_36659;0.028842505;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+510;ProPAneug2;2;N43880_36659;0.145087059;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+511;ProPAneug3;2;N43880_36659;0.139870224;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+512;ProPAneuk2;6;N43880_36659;0.034045636;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+513;ProPSaltg1;2;N43880_36659;0.135022885;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+514;ProPSaltg2;4;N43880_36659;0.03851973;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+515;ProPSaltg3;2;N43880_36659;0.07167736;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+516;ProPSaltk1;3;N43880_36659;0.030883919;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+517;ProPSaltk3;1;N43880_36659;0.193849644;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+518;ProPSneug2;2;N43880_36659;0.116718902;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+519;ProPSneuk1;5;N43880_36659;0.053210092;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+520;ProPSneuk2;5;N43880_36659;0.050500966;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+521;ProPSneuk3;13;N43880_36659;0.012660296;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+522;ProCg1;1;N20722_21612;0.143698332;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Gallionellaceae;Gallionellaceae Family;NA
+523;ProCg2;19;N26188_13634;0.010480747;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+524;ProLAaltg1;11;N26188_13634;0.006895132;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+525;ProLAaltg2;10;N26188_13634;0.008744038;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+526;ProLAaltk2;17;N26188_13634;0.012441614;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+527;ProLAneug1;8;N26188_13634;0.021080874;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+528;ProLAneug2;7;N26188_13634;0.023604788;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+529;ProLAneug3;19;N26188_13634;0.009021158;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+530;ProLAneuk3;18;N26188_13634;0.007834915;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+531;ProLFaltg1;2;N26188_13634;0.093244804;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+532;ProLFaltg2;8;N26188_13634;0.022582697;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+533;ProLFaltk1;7;N26188_13634;0.027693189;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+534;ProLFaltk2;11;N26188_13634;0.016905132;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+535;ProLFneug1;5;N26188_13634;0.007856017;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+536;ProLFneug2;6;N26188_13634;0.013976567;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+537;ProLFneug3;6;N26188_13634;0.006108818;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+538;ProLFneuk2;19;N26188_13634;0.007843657;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+539;ProPAaltg1;4;N26188_13634;0.021021838;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+540;ProPAaltg2;13;N26188_13634;0.011089658;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+541;ProPAaltg3;9;N26188_13634;0.015517979;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+542;ProPAaltk1;9;N26188_13634;0.021963884;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+543;ProPAaltk2;16;N26188_13634;0.011331445;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+544;ProPAaltk3;8;N26188_13634;0.01884883;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+545;ProPAneug1;8;N26188_13634;0.033727575;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+546;ProPAneug2;15;N26188_13634;0.008239194;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+547;ProPSaltg3;7;N26188_13634;0.007791017;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+548;ProPSaltk3;19;N26188_13634;0.009987237;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+549;ProPSneug2;16;N26188_13634;0.010212904;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+550;ProPSneug3;17;N26188_13634;0.0105646;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+551;ProLFneuk2;18;N13251_2016;0.008337651;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Alteromonadaceae;Rheinheimera;NA
+552;ProLFneuk3;18;N13251_2016;0.009243243;Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacterales;Alteromonadaceae;Rheinheimera;NA
+553;ProLAaltg1;17;N53522_5191;0.004219409;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Polyangium;NA
+554;ProLAaltg2;20;N53522_5191;0.003577107;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Polyangium;NA
+555;ProLFaltg1;11;N53522_5191;0.015492687;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Polyangium;NA
+556;ProLFaltg3;7;N53522_5191;0.004789632;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Polyangium;NA
+557;ProPAaltg1;17;N53522_5191;0.005828061;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Polyangium;NA
+558;ProPAaltg3;20;N53522_5191;0.006849315;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Polyangium;NA
+559;ProPAaltg1;12;N12313_2625;0.007211375;Bacteria;Desulfobacterota;Desulfobacterota Phylum;Desulfobacterota Phylum;Desulfobacterota Phylum;Desulfobacterota Phylum;NA
+560;ProPAaltg2;18;N12313_2625;0.007822169;Bacteria;Desulfobacterota;Desulfobacterota Phylum;Desulfobacterota Phylum;Desulfobacterota Phylum;Desulfobacterota Phylum;NA
+561;ProLAneuk2;20;N58980_2181;0.006337022;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Acidaminobacteraceae;Acidaminobacter;NA
+562;ProPAneuk2;20;N58980_2181;0.008500756;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Acidaminobacteraceae;Acidaminobacter;NA
+563;ProPAneuk3;8;N58980_2181;0.0395892;Bacteria;Firmicutes;Clostridia;Peptostreptococcales-Tissierellales;Acidaminobacteraceae;Acidaminobacter;NA
+564;ProCk1;8;N68082_1028;0.024120318;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;Vicinamibacteraceae_unclassified;NA
+565;ProCk2;17;N68082_1028;0.012909264;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;Vicinamibacteraceae_unclassified;NA
+566;ProCk3;4;N68082_1028;0.034759158;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;Vicinamibacteraceae_unclassified;NA
+567;ProCg1;10;N25198_18666;0.015063783;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+568;ProCg2;4;N25198_18666;0.033378902;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+569;ProCg3;1;N25198_18666;0.056920557;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+570;ProCk2;19;N25198_18666;0.011691128;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+571;ProLAaltg1;19;N25198_18666;0.003704847;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+572;ProLAaltg2;6;N25198_18666;0.01073132;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+573;ProLAaltk1;14;N25198_18666;0.009098111;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+574;ProLAaltk2;5;N25198_18666;0.048237792;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+575;ProLAaltk3;4;N25198_18666;0.06057668;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+576;ProLAneug1;20;N25198_18666;0.011307014;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+577;ProLAneug2;8;N25198_18666;0.020738493;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+578;ProLAneug3;4;N25198_18666;0.036270635;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+579;ProLAneuk1;1;N25198_18666;0.107212476;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+580;ProLAneuk2;2;N25198_18666;0.126472688;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+581;ProLAneuk3;3;N25198_18666;0.11382697;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+582;ProLFaltg1;9;N25198_18666;0.021555042;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+583;ProLFaltg2;4;N25198_18666;0.044211196;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+584;ProLFaltk1;4;N25198_18666;0.038738634;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+585;ProLFaltk2;2;N25198_18666;0.053289428;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+586;ProLFaltk3;5;N25198_18666;0.038354885;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+587;ProLFneug1;3;N25198_18666;0.00985331;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+588;ProLFneug2;3;N25198_18666;0.030706882;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+589;ProLFneug3;9;N25198_18666;0.003692441;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+590;ProLFneuk1;2;N25198_18666;0.135027223;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+591;ProLFneuk2;2;N25198_18666;0.190103257;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+592;ProLFneuk3;1;N25198_18666;0.257859459;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+593;ProPAaltg2;3;N25198_18666;0.025298282;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+594;ProPAaltg3;15;N25198_18666;0.009096747;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+595;ProPAaltk1;2;N25198_18666;0.065432155;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+596;ProPAaltk2;4;N25198_18666;0.059490085;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+597;ProPAaltk3;3;N25198_18666;0.034914611;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+598;ProPAneug1;14;N25198_18666;0.012172757;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+599;ProPAneug2;18;N25198_18666;0.00672653;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+600;ProPAneug3;8;N25198_18666;0.029740447;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+601;ProPAneuk1;1;N25198_18666;0.147186147;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+602;ProPAneuk2;2;N25198_18666;0.131048001;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+603;ProPAneuk3;1;N25198_18666;0.173430512;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+604;ProPSaltg1;8;N25198_18666;0.022630954;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+605;ProPSaltg2;6;N25198_18666;0.014230219;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+606;ProPSaltk1;7;N25198_18666;0.016914114;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+607;ProPSaltk2;7;N25198_18666;0.038561131;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+608;ProPSaltk3;7;N25198_18666;0.028422098;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+609;ProPSneug1;3;N25198_18666;0.092806959;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+610;ProPSneug2;5;N25198_18666;0.025937534;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+611;ProPSneug3;7;N25198_18666;0.02176423;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+612;ProPSneuk1;6;N25198_18666;0.039345491;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+613;ProPSneuk2;6;N25198_18666;0.047445747;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+614;ProPSneuk3;5;N25198_18666;0.046393858;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+615;ProPSaltg3;18;N66856_583;0.003666361;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas;NA
+616;ProCk1;4;N39163_9376;0.033484677;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;NA
+617;ProLFaltg3;6;N39163_9376;0.005728775;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;NA
+618;ProPSaltg3;6;N39163_9376;0.009211732;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;NA
+619;ProPSneug3;2;N39163_9376;0.123600046;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;NA
+620;ProCg3;19;N6322_1222;0.012285012;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Alcaligenaceae;Verticiella;NA
+621;ProLAaltk2;13;N58598_1538;0.016942675;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Halomonas;NA
+622;ProLAneuk1;7;N58598_1538;0.041771094;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Halomonas;NA
+623;ProLAneuk2;13;N58598_1538;0.012763299;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Halomonas;NA
+624;ProLAneuk3;9;N58598_1538;0.018538954;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Halomonas;NA
+625;ProLFaltg2;6;N58598_1538;0.032760814;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;Halomonas;NA
+626;ProCg2;18;N3998_8408;0.011164274;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+627;ProLAaltg2;13;N3998_8408;0.006160572;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+628;ProLAaltk1;4;N3998_8408;0.045226493;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+629;ProLAaltk3;16;N3998_8408;0.012758902;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+630;ProLAneug2;6;N3998_8408;0.026976901;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+631;ProLAneuk1;16;N3998_8408;0.015037594;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+632;ProLFneug1;6;N3998_8408;0.006058454;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+633;ProLFneug3;7;N3998_8408;0.005240009;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+634;ProPAaltk2;10;N3998_8408;0.025495751;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+635;ProPAneug3;9;N3998_8408;0.02141913;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+636;ProPAaltg2;16;N63937_1652;0.008713303;Bacteria;Myxococcota;Polyangia;Haliangiales;Haliangiaceae;Haliangium;NA
+637;ProLFaltk1;13;N3671_4126;0.016605303;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Prosthecobacter;NA
+638;ProPAaltk1;17;N3671_4126;0.014611956;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae;Prosthecobacter;NA
+639;ProPAaltk1;13;N19473_1496;0.017093232;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Pedosphaerales;Pedosphaeraceae;DEV114;NA
+640;ProLAaltk1;8;N41599_9411;0.019900617;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+641;ProLAaltk3;11;N41599_9411;0.020810499;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+642;ProLFaltk2;14;N41599_9411;0.016510911;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+643;ProLFaltk3;7;N41599_9411;0.030493204;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+644;ProLFneuk2;11;N41599_9411;0.012458282;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+645;ProLFneuk3;14;N41599_9411;0.011632432;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+646;ProPAneuk2;19;N41599_9411;0.008799028;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+647;ProPSneuk1;10;N41599_9411;0.014614039;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Duganella;NA
+648;ProCg2;15;N10425_2344;0.01173388;Bacteria;Bdellovibrionota;Oligoflexia;Silvanigrellales;Silvanigrellaceae;Silvanigrella;NA
+649;ProLAaltk2;12;N59102_637;0.017197452;Bacteria;Proteobacteria;Alphaproteobacteria;Azospirillales;Azospirillaceae;Niveispirillum;NA
+650;ProPAaltg1;3;N5374_1510;0.024083271;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Caenimonas;NA
+651;ProPAaltg3;7;N5374_1510;0.018193493;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Caenimonas;NA
+652;ProPSaltg3;4;N5374_1510;0.012740605;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Caenimonas;NA
+653;ProLFneug1;7;N24516_274;0.005903109;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rivibacter;NA
+654;ProPSneuk2;8;N65435_845;0.037201779;Bacteria;Desulfobacterota;Desulfobacteria;Desulfobacterales;Desulforegulaceae;Desulforegula;NA
+655;ProPAneuk1;5;N55003_2365;0.048629149;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Zoogloea;NA
+656;ProPAneuk2;4;N55003_2365;0.038903211;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Zoogloea;NA
+657;ProPSneuk2;16;N55003_2365;0.015770319;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Zoogloea;NA
+658;ProPSneuk3;16;N55003_2365;0.011761823;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Zoogloea;NA
+659;ProPSaltk3;20;N3378_519;0.008103235;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SM2D12;SM2D12_unclassified;NA
+660;ProCk1;13;N33960_816;0.015820091;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Schlesneriaceae;Planctopirus;NA
+661;ProCk3;16;N60798_1325;0.012060829;Bacteria;Proteobacteria;Gammaproteobacteria;KF-JG30-C25;KF-JG30-C25_unclassified;KF-JG30-C25_unclassified;NA
+662;ProLAaltk1;11;N35797_7278;0.012074801;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+663;ProLAaltk2;7;N35797_7278;0.031889597;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+664;ProLFaltk1;14;N35797_7278;0.01652042;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+665;ProLFaltk2;13;N35797_7278;0.016789184;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+666;ProLFaltk3;13;N35797_7278;0.01333956;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+667;ProLFneuk1;12;N35797_7278;0.011282517;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+668;ProLFneuk2;12;N35797_7278;0.012446233;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sterolibacterium;NA
+669;ProLAneug1;18;N49348_568;0.014181679;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Paraherbaspirillum;NA
+670;ProLAneuk1;5;N25064_426;0.04288499;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Simplicispira;NA
+671;ProPSneuk1;18;N25064_426;0.008993255;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Simplicispira;NA
+672;ProCk1;15;N21870_587;0.012202043;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacterales Order;Vicinamibacterales Order;NA
+673;ProCk2;18;N21870_587;0.012656724;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacterales Order;Vicinamibacterales Order;NA
+674;ProCk3;15;N21870_587;0.012585212;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacterales Order;Vicinamibacterales Order;NA
+675;ProLAneuk2;19;N49496_348;0.00651553;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Rhodocyclaceae Family;NA
+676;ProPSaltk1;16;N49496_348;0.009020861;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Rhodocyclaceae Family;NA
+677;ProLAaltk3;15;N47842_1008;0.013644156;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Pedosphaerales;Pedosphaeraceae;SH3-11;NA
+678;ProLAneuk3;20;N47842_1008;0.007614213;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Pedosphaerales;Pedosphaeraceae;SH3-11;NA
+679;ProPSaltk2;20;N47842_1008;0.008678004;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Pedosphaerales;Pedosphaeraceae;SH3-11;NA
+680;ProLFneug1;14;N32632_4399;0.003195668;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+681;ProLFneug3;15;N32632_4399;0.001846221;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+682;ProPAneug1;13;N32632_4399;0.015707641;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+683;ProPAneug2;12;N32632_4399;0.009204725;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+684;ProPAneug3;15;N32632_4399;0.008892093;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+685;ProPSneug1;13;N32632_4399;0.022014052;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+686;ProPSneug2;19;N32632_4399;0.007997406;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Luteimonas;NA
+687;ProLAaltk1;17;N45007_6128;0.007249682;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+688;ProLAaltk3;10;N45007_6128;0.02166765;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+689;ProLFaltg1;19;N45007_6128;0.011258661;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+690;ProLFaltg2;14;N45007_6128;0.011768448;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+691;ProLFaltk2;15;N45007_6128;0.016302205;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+692;ProLFaltk3;8;N45007_6128;0.019936367;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+693;ProLFneuk2;13;N45007_6128;0.011952239;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+694;ProLFneuk3;17;N45007_6128;0.010194595;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+695;ProPAaltg2;17;N45007_6128;0.007921184;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+696;ProPAaltk1;14;N45007_6128;0.016633736;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+697;ProPAaltk3;17;N45007_6128;0.010151803;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+698;ProPAneug3;17;N45007_6128;0.006699111;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+699;ProPAneuk2;18;N45007_6128;0.010098643;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+700;ProPAneuk3;16;N45007_6128;0.012754679;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+701;ProPSaltg2;18;N45007_6128;0.004661623;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+702;ProPSaltk1;14;N45007_6128;0.010712272;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+703;ProPSaltk2;15;N45007_6128;0.010917489;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+704;ProPSaltk3;16;N45007_6128;0.010757045;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+705;ProPSneuk2;18;N45007_6128;0.01419778;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+706;ProPSneuk3;15;N45007_6128;0.01217022;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+707;ProCg1;7;N15528_2773;0.019865308;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Oxalobacteraceae Family;NA
+708;ProCg3;17;N15528_2773;0.012694513;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Oxalobacteraceae Family;NA
+709;ProLAaltk1;16;N15528_2773;0.007609765;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Oxalobacteraceae Family;NA
+710;ProLAaltk2;11;N15528_2773;0.018938429;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Oxalobacteraceae Family;NA
+711;ProPAaltg3;8;N15528_2773;0.015625;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Oxalobacteraceae Family;NA
+712;ProPSaltk2;18;N15528_2773;0.010147666;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Oxalobacteraceae Family;NA
+713;ProLAaltg1;16;N25038_121;0.004425234;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Quatrionicoccus;NA
+714;ProLFaltg2;19;N25038_121;0.006997455;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Quatrionicoccus;NA
+715;ProLAaltg2;14;N69537_2413;0.005564388;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfuritalea;NA
+716;ProLAaltg3;11;N69537_2413;0.016199377;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfuritalea;NA
+717;ProLAaltk2;9;N69537_2413;0.029639066;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfuritalea;NA
+718;ProLAaltk3;9;N69537_2413;0.024225051;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfuritalea;NA
+719;ProLFaltg3;8;N69537_2413;0.00432006;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfuritalea;NA
+720;ProPAaltk2;11;N69537_2413;0.025495751;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Sulfuritalea;NA
+721;ProLFaltk1;18;N60445_1722;0.013517672;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Crocinitomix;NA
+722;ProPAaltk1;10;N60445_1722;0.021871985;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Crocinitomix;NA
+723;ProPAaltk2;19;N5149_221;0.011331445;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Novispirillum;NA
+724;ProCg1;2;N57283_9103;0.080454497;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+725;ProCg2;2;N57283_9103;0.038391433;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+726;ProCg3;3;N57283_9103;0.04033579;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+727;ProCk1;6;N57283_9103;0.02553916;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+728;ProCk2;10;N57283_9103;0.017365857;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+729;ProCk3;10;N57283_9103;0.018877819;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+730;ProPAaltg1;18;N57283_9103;0.005691997;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+731;ProPAaltg2;15;N57283_9103;0.008713303;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+732;ProPAaltk1;1;N57283_9103;0.083076782;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+733;ProPAaltk2;14;N57283_9103;0.014164306;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+734;ProPSaltg1;10;N57283_9103;0.015087303;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+735;ProPSaltk2;19;N57283_9103;0.009377843;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+736;ProPSneuk1;12;N57283_9103;0.012240819;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+737;ProLAaltg1;4;N7337_71952;0.032211588;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+738;ProLAaltk1;2;N7337_71952;0.135271383;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+739;ProLAaltk2;1;N7337_71952;0.146921444;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+740;ProLAaltk3;1;N7337_71952;0.244667397;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+741;ProLAneug1;4;N7337_71952;0.030471445;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+742;ProLAneug2;1;N7337_71952;0.307705277;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+743;ProLAneuk3;2;N7337_71952;0.145552858;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+744;ProLFaltk2;1;N7337_71952;0.222294367;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+745;ProLFaltk3;2;N7337_71952;0.104789982;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+746;ProLFneuk1;1;N7337_71952;0.336055656;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+747;ProPAaltg2;2;N7337_71952;0.086439923;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+748;ProPAaltg3;1;N7337_71952;0.221104452;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+749;ProPAaltk2;1;N7337_71952;0.291784703;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+750;ProPAneug1;3;N7337_71952;0.099906977;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+751;ProPAneug2;4;N7337_71952;0.033729201;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+752;ProPAneuk2;1;N7337_71952;0.276732642;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+753;ProPSaltg2;2;N7337_71952;0.14577796;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+754;ProPSaltk2;2;N7337_71952;0.096927707;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+755;ProPSaltk3;2;N7337_71952;0.168304195;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+756;ProPSneug3;3;N7337_71952;0.072278028;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+757;ProPSneuk1;1;N7337_71952;0.161628778;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+758;ProPSneuk2;1;N7337_71952;0.215078402;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+759;ProPSneuk3;1;N7337_71952;0.315037164;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+760;ProLAneuk1;13;N21047_1699;0.020607073;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Ferribacterium;NA
+761;ProPAaltk3;15;N21047_1699;0.013598988;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Ferribacterium;NA
+762;ProPSneuk3;6;N21047_1699;0.045086988;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Ferribacterium;NA
+763;ProLAaltk3;14;N53141_2776;0.013728466;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+764;ProLAneuk1;19;N53141_2776;0.013088276;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+765;ProLAneuk2;12;N53141_2776;0.013923599;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+766;ProLFneuk1;11;N53141_2776;0.011978221;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+767;ProPAneuk3;7;N53141_2776;0.044724201;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+768;ProPSneuk2;13;N53141_2776;0.023902592;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+769;ProPSneuk3;21;N53141_2776;0.010536633;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechlorobacter;NA
+770;ProLAaltg1;8;N33364_2536;0.009879592;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+771;ProLAaltg2;5;N33364_2536;0.01709062;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+772;ProLAaltg3;6;N33364_2536;0.040809969;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+773;ProLAneug2;5;N33364_2536;0.032709492;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+774;ProLAneug3;3;N33364_2536;0.060683562;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+775;ProLFaltg1;6;N33364_2536;0.040030793;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+776;ProLFaltg3;4;N33364_2536;0.011927122;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+777;ProLFneug1;12;N33364_2536;0.003439782;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+778;ProLFneug3;18;N33364_2536;0.001547567;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+779;ProPAneug1;19;N33364_2536;0.00786711;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+780;ProLAaltg1;14;N24491_1767;0.005454358;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+781;ProLAaltg2;7;N24491_1767;0.009538951;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+782;ProLAaltg3;7;N24491_1767;0.020041537;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+783;ProLAaltk2;20;N24491_1767;0.010106157;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+784;ProLAaltk3;18;N24491_1767;0.010440379;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+785;ProLAneug3;18;N24491_1767;0.009951174;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+786;ProLAneuk1;20;N24491_1767;0.011695906;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+787;ProLFaltg3;11;N24491_1767;0.00366266;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+788;ProLFneug3;11;N24491_1767;0.00352954;Bacteria;Myxococcota;Polyangia;Polyangiales;Polyangiaceae;Pajaroellobacter;NA
+789;ProCg2;13;N53441_1592;0.012189565;Bacteria;Verrucomicrobiota;Verrucomicrobiae;Chthoniobacterales;Chthoniobacteraceae;Chthoniobacter;NA
+790;ProLAneug1;14;N39995_1394;0.016864699;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Croceicoccus;NA
+791;ProLAneug3;20;N39995_1394;0.008835155;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Croceicoccus;NA
+792;ProLFneug1;9;N39995_1394;0.004993231;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Croceicoccus;NA
+793;ProLFneuk1;15;N39995_1394;0.010284332;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Croceicoccus;NA
+794;ProLAaltg3;4;N13529_5363;0.077673936;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+795;ProLAneuk2;1;N13529_5363;0.228936094;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+796;ProLFaltg2;2;N13529_5363;0.088104326;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+797;ProLFaltg3;3;N13529_5363;0.013523666;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+798;ProPSaltg3;3;N13529_5363;0.054078827;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+799;ProPSneug3;14;N47787_314;0.013970673;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Incertae Sedis;Unknown Family;Sulfuriflexus;NA
+800;ProLAaltk2;4;N26526_6844;0.055626327;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+801;ProLAaltk3;6;N26526_6844;0.029325802;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+802;ProLAneuk1;2;N26526_6844;0.084656085;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+803;ProLAneuk2;8;N26526_6844;0.028204213;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+804;ProLFaltk2;19;N26526_6844;0.012615078;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+805;ProLFaltk3;9;N26526_6844;0.017036886;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+806;ProLFneuk1;5;N26526_6844;0.03892922;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+807;ProLFneuk2;4;N26526_6844;0.037784498;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+808;ProLFneuk3;3;N26526_6844;0.086010811;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+809;ProPAneuk3;6;N26526_6844;0.059135332;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+810;ProPSaltk2;14;N26526_6844;0.012247183;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+811;ProPSaltk3;14;N26526_6844;0.010959626;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+812;ProPSneug2;20;N26526_6844;0.006052091;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+813;ProPSneuk1;13;N26526_6844;0.011491381;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+814;ProPSneuk2;3;N26526_6844;0.058812958;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+815;ProCg3;16;N38786_6775;0.013104013;Bacteria;Proteobacteria;Gammaproteobacteria;Diplorickettsiales;Diplorickettsiaceae;Rickettsiella;NA
+816;ProLAaltg1;3;N57076_6136;0.036739734;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+817;ProLAaltg2;4;N57076_6136;0.020866455;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+818;ProLAaltg3;1;N57076_6136;0.146832814;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+819;ProLAaltk3;20;N57076_6136;0.008459096;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+820;ProLAneug1;7;N57076_6136;0.022614028;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+821;ProLAneug2;2;N57076_6136;0.154105547;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+822;ProLAneug3;6;N57076_6136;0.023482911;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+823;ProLAneuk2;15;N57076_6136;0.009282399;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+824;ProLAneuk3;11;N57076_6136;0.014511145;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+825;ProLFaltg2;16;N57076_6136;0.011132316;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+826;ProLFaltg3;5;N57076_6136;0.006386176;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+827;ProLFaltk2;5;N57076_6136;0.032187;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+828;ProLFneug1;13;N57076_6136;0.003328821;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+829;ProLFneug2;5;N57076_6136;0.014080482;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+830;ProLFneug3;3;N57076_6136;0.027394657;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+831;ProLFneuk2;5;N57076_6136;0.020892321;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+832;ProLFneuk3;7;N57076_6136;0.023448649;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+833;ProCk2;15;N7806_3206;0.014112544;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Schlesneriaceae;Schlesneria;NA
+834;ProLAneuk1;12;N41239_2357;0.022834865;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Thermomonas;NA
+835;ProLFneug2;10;N41239_2357;0.006312836;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Thermomonas;NA
+836;ProPAneug2;9;N41239_2357;0.012165685;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Thermomonas;NA
+837;ProLAneuk3;19;N69871_4965;0.00777974;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;NA
+838;ProLFneuk3;5;N69871_4965;0.035459459;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;NA
+839;ProPAneuk1;17;N69871_4965;0.011399711;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;NA
+840;ProPAneuk3;12;N69871_4965;0.021368229;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter;NA
+841;ProLFaltg3;16;N30262_1882;0.002347859;Bacteria;Cyanobacteria;Sericytochromatia;Sericytochromatia_unclassified;Sericytochromatia_unclassified;Sericytochromatia_unclassified;NA
+842;ProLAneug1;12;N13066_2147;0.017822921;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+843;ProLAneug2;13;N13066_2147;0.010116338;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+844;ProLAneug3;12;N13066_2147;0.016414787;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+845;ProLFaltg1;20;N13066_2147;0.010488838;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+846;ProLFneug1;18;N13066_2147;0.002774017;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+847;ProLFneuk1;10;N13066_2147;0.01400484;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+848;ProLFneuk3;16;N13066_2147;0.010951351;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+849;ProPAaltk3;11;N13066_2147;0.017583808;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+850;ProPAneuk3;18;N13066_2147;0.010766937;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+851;ProPSaltk1;20;N13066_2147;0.005825973;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+852;ProPSaltk3;8;N13066_2147;0.024917448;Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella;NA
+853;ProLAaltk1;12;N29583_3982;0.010442423;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+854;ProLAaltk3;5;N29583_3982;0.041536689;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+855;ProLAneug3;15;N29583_3982;0.010974192;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+856;ProLFaltg1;14;N29583_3982;0.013568129;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+857;ProLFaltk1;15;N29583_3982;0.015162286;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+858;ProLFaltk2;16;N29583_3982;0.015838416;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+859;ProLFaltk3;12;N29583_3982;0.013611995;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+860;ProLFneug1;10;N29583_3982;0.004593773;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+861;ProLFneug2;14;N29583_3982;0.003688982;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+862;ProLFneug3;12;N29583_3982;0.002986533;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+863;ProLFneuk1;16;N29583_3982;0.009528131;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+864;ProLFneuk3;20;N29583_3982;0.008486486;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+865;ProPAaltk1;11;N29583_3982;0.01925286;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+866;ProPAaltk2;6;N29583_3982;0.053824363;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+867;ProPAneuk1;11;N29583_3982;0.019480519;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+868;ProPAneuk2;15;N29583_3982;0.01173914;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+869;ProPSaltk1;11;N29583_3982;0.011965169;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+870;ProPSneug1;14;N29583_3982;0.019672131;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+871;ProPSneug2;13;N29583_3982;0.011834;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+872;ProPSneuk1;20;N29583_3982;0.007744192;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+873;ProPSneuk2;11;N29583_3982;0.025205553;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+874;ProPSneuk3;17;N29583_3982;0.011598464;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+875;ProCg3;11;N64880_1148;0.014742015;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Methylophilaceae;Methylotenera;NA
+876;ProPAneug3;18;N64880_1148;0.005948089;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Methylophilaceae;Methylotenera;NA
+877;ProCk2;14;N10248_1151;0.014142254;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;AKYH767;AKYH767_unclassified;NA
+878;ProLAaltg2;3;N33094_8853;0.034578696;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+879;ProLAaltg3;2;N33094_8853;0.118483904;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+880;ProLAneug1;10;N33094_8853;0.019164431;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+881;ProLAneug2;4;N33094_8853;0.035238577;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+882;ProLAneug3;14;N33094_8853;0.012834225;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+883;ProLAneuk3;17;N33094_8853;0.008055617;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+884;ProLFaltg1;4;N33094_8853;0.052059276;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+885;ProLFaltg2;5;N33094_8853;0.041030534;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+886;ProLFaltk1;5;N33094_8853;0.038664361;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+887;ProLFaltk2;4;N33094_8853;0.042877351;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+888;ProLFneug2;9;N33094_8853;0.006728496;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+889;ProCk1;10;N2155_2044;0.018374007;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;NA
+890;ProCk2;11;N2155_2044;0.017336146;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;NA
+891;ProCk3;18;N2155_2044;0.011311709;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;NA
+892;ProPSaltg3;14;N2155_2044;0.005362053;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;NA
+893;ProLAneug2;14;N42907_112;0.009441915;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Paucibacter;NA
+894;ProPAneuk1;7;N67021_1477;0.029148629;Bacteria;Proteobacteria;Gammaproteobacteria;Diplorickettsiales;Diplorickettsiaceae;Diplorickettsiaceae Family;NA
+895;ProCg3;8;N38436_1992;0.018018018;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+896;ProCk1;1;N38436_1992;0.051433031;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+897;ProCk2;6;N38436_1992;0.022490938;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+898;ProCk3;11;N38436_1992;0.018578171;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+899;ProLAaltg1;18;N38436_1992;0.003910672;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+900;ProLFaltg3;17;N38436_1992;0.00216003;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+901;ProPAaltg1;11;N38436_1992;0.008322562;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+902;ProPAaltg2;14;N38436_1992;0.009307391;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+903;ProPAneug3;19;N38436_1992;0.005707763;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+904;ProPSaltg1;20;N38436_1992;0.008476013;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+905;ProPSneug1;12;N47366_403;0.024021412;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Cavicella;NA
+906;ProCg1;3;N32525_12449;0.053052844;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Gallionellaceae;Sideroxydans;NA
+907;ProLAneuk3;8;N50998_3098;0.019587288;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Leptothrix;NA
+908;ProLFneug3;13;N50998_3098;0.002579279;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Leptothrix;NA
+909;ProLFneuk2;17;N50998_3098;0.008807547;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Leptothrix;NA
+910;ProPAneug3;3;N50998_3098;0.084595049;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Leptothrix;NA
+911;ProPSneug3;20;N50998_3098;0.009525459;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Leptothrix;NA
+912;ProLAaltg3;18;N69818_2881;0.010488058;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+913;ProLFaltk1;20;N69818_2881;0.010005624;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+914;ProLFaltk2;10;N69818_2881;0.018203743;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+915;ProLFaltk3;18;N69818_2881;0.008036818;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+916;ProLFneug2;17;N69818_2881;0.003091471;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+917;ProLFneuk1;19;N69818_2881;0.007410768;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+918;ProPAneuk1;8;N69818_2881;0.023232323;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+919;ProPSneug1;16;N69818_2881;0.015590498;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+920;ProPSneug2;7;N69818_2881;0.019237004;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+921;ProPSneug3;4;N69818_2881;0.039487357;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+922;ProPSneuk3;14;N69818_2881;0.012415258;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+923;ProCg1;17;N63889_2476;0.010324615;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsiaceae Family;NA
+924;ProLFneuk2;8;N56184_1838;0.014602937;Bacteria;Proteobacteria;Alphaproteobacteria;Micavibrionales;Micavibrionales Order;Micavibrionales Order;NA
+925;ProCg2;1;N65503_921;0.096491228;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Candidatus Xenolissoclinum;NA
+926;ProLFaltg1;5;N4059_9819;0.048498845;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+927;ProLFneuk1;4;N4059_9819;0.061978221;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+928;ProLFneuk3;10;N4059_9819;0.017372973;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+929;ProPAaltg3;4;N4059_9819;0.05265411;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+930;ProPAneug1;6;N4059_9819;0.04220598;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+931;ProPAneug3;5;N4059_9819;0.044881038;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+932;ProPSaltg1;3;N4059_9819;0.05263604;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+933;ProPSaltg2;3;N4059_9819;0.046452668;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+934;ProPSaltk1;9;N4059_9819;0.013593936;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+935;ProPSaltk2;4;N4059_9819;0.044929666;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+936;ProCk3;3;N9175_930;0.036781781;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter;NA
+937;ProPSaltk1;4;N9175_930;0.027501096;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ramlibacter;NA
+938;ProCg2;14;N55505_6157;0.012189565;Bacteria;Proteobacteria;Gammaproteobacteria;sediment-surface35;sediment-surface35_unclassified;sediment-surface35_unclassified;NA
+939;ProLAaltk3;8;N14072_5763;0.026880814;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+940;ProLAneuk2;11;N14072_5763;0.014637629;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+941;ProLFaltk1;10;N14072_5763;0.021199614;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+942;ProLFaltk3;14;N14072_5763;0.01285307;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+943;ProLFneug1;19;N14072_5763;0.002507712;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+944;ProLFneuk1;20;N14072_5763;0.006654567;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+945;ProPAaltk1;15;N14072_5763;0.015760695;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+946;ProPAaltk2;3;N14072_5763;0.062322946;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+947;ProPAneuk1;9;N14072_5763;0.022655123;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+948;ProPAneuk2;16;N14072_5763;0.01037561;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+949;ProPSaltk1;10;N14072_5763;0.012591618;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+950;ProPSaltk3;12;N14072_5763;0.012904402;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+951;ProPSneug2;17;N14072_5763;0.009132173;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+952;ProPSneug3;10;N14072_5763;0.017954047;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+953;ProPSneuk1;7;N14072_5763;0.025480889;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+954;ProPAaltk3;19;N59397_5032;0.009867173;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Methyloversatilis;NA
+955;ProLAneuk1;10;N50496_1830;0.027011974;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Aquaspirillaceae;Rivicola;NA
+956;ProPAneuk1;18;N50496_1830;0.010678211;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Aquaspirillaceae;Rivicola;NA
+957;ProPAneuk2;10;N50496_1830;0.027888446;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Aquaspirillaceae;Rivicola;NA
+958;ProPAneuk3;11;N50496_1830;0.024681133;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Aquaspirillaceae;Rivicola;NA
+959;ProPSaltk2;5;N50496_1830;0.042550213;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Aquaspirillaceae;Rivicola;NA
+960;ProCg1;19;N9618_4807;0.00917991;Bacteria;Proteobacteria;Alphaproteobacteria;Caedibacterales;Caedibacteraceae;Caedibacter;NA
+961;ProLFaltg2;20;N9618_4807;0.006997455;Bacteria;Proteobacteria;Alphaproteobacteria;Caedibacterales;Caedibacteraceae;Caedibacter;NA
+962;ProLAaltg2;17;N19628_4847;0.004570747;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+963;ProLFaltg3;14;N19628_4847;0.002723516;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+964;ProLFaltk2;20;N19628_4847;0.011873014;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+965;ProLFaltk3;11;N19628_4847;0.014672543;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+966;ProLFneug3;16;N19628_4847;0.00176477;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+967;ProLFneuk3;19;N19628_4847;0.008551351;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+968;ProPSneug1;17;N19628_4847;0.014252258;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+969;ProPSneug2;11;N19628_4847;0.013563169;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+970;ProPSneug3;8;N19628_4847;0.02153331;Bacteria;Proteobacteria;Alphaproteobacteria;Holosporales;Holosporaceae;Holosporaceae Family;NA
+971;ProLAaltg1;9;N19056_3214;0.009262118;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+972;ProLAaltg2;11;N19056_3214;0.008147854;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+973;ProLFaltg3;19;N19056_3214;0.001878287;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+974;ProPAaltg3;13;N19056_3214;0.011558219;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+975;ProPAneug1;5;N19056_3214;0.045581395;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+976;ProPAneug2;10;N19056_3214;0.011972579;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+977;ProPSaltg1;11;N19056_3214;0.014833023;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+978;ProPSaltg3;9;N19056_3214;0.006874427;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+979;ProPSneug2;12;N19056_3214;0.012806657;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;C1-B045;NA
+980;ProPAneug1;16;N29530_3473;0.008930233;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Methylophilaceae;Methylophilus;NA
+981;ProCk1;5;N25830_1230;0.032207719;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellulaceae Family;NA
+982;ProLFneuk2;14;N49796_1253;0.011867899;Bacteria;Bdellovibrionota;Bdellovibrionia;Bacteriovoracales;Bacteriovoracaceae;Bacteriovorax;NA
+983;ProPAneuk1;16;N49796_1253;0.013131313;Bacteria;Bdellovibrionota;Bdellovibrionia;Bacteriovoracales;Bacteriovoracaceae;Bacteriovorax;NA
+984;ProPAneuk3;20;N49796_1253;0.010601292;Bacteria;Bdellovibrionota;Bdellovibrionia;Bacteriovoracales;Bacteriovoracaceae;Bacteriovorax;NA
+985;ProLAaltk2;14;N42382_1882;0.01656051;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Edaphobaculum;NA
+986;ProLFaltk3;16;N42382_1882;0.011082246;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Edaphobaculum;NA
+987;ProPSaltk2;11;N42382_1882;0.02169501;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Edaphobaculum;NA
+988;ProCg1;5;N7731_3937;0.023183616;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;Rubinisphaeraceae Family;NA
+989;ProCg2;7;N7731_3937;0.022898154;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;Rubinisphaeraceae Family;NA
+990;ProCg3;9;N7731_3937;0.017403767;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;Rubinisphaeraceae Family;NA
+991;ProCk2;20;N7731_3937;0.010279874;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;Rubinisphaeraceae Family;NA
+992;ProLAaltg3;15;N59133_519;0.012461059;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonadaceae Family;NA
+993;ProLFaltg3;10;N59133_519;0.003850488;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonadaceae Family;NA
+994;ProPSaltg1;4;N59133_519;0.033819291;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonadaceae Family;NA
+995;ProLFneug1;16;N8203_582;0.003062515;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;P13-46;P13-46_unclassified;NA
+996;ProPSaltg3;8;N8203_582;0.007470211;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;P13-46;P13-46_unclassified;NA
+997;ProLFneug2;16;N45578_1542;0.003559089;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas;NA
+998;ProPSneuk2;10;N45578_1542;0.026957811;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas;NA
+999;ProPSaltk2;13;N71167_706;0.014486668;Bacteria;Myxococcota;Polyangia;Blfdi19;Blfdi19_unclassified;Blfdi19_unclassified;NA
+1000;ProLAaltg1;21;N36312_11450;0.003499022;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1001;ProLFneuk3;4;N36312_11450;0.072237838;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1002;ProPAaltk2;8;N36312_11450;0.039660057;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1003;ProPAneuk2;9;N36312_11450;0.028314549;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1004;ProPSaltg3;12;N36312_11450;0.005453712;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1005;ProPSneuk2;7;N36312_11450;0.037336568;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1006;ProPSneuk3;18;N36312_11450;0.011353426;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Roseateles;NA
+1007;ProPSaltk1;12;N6719_1621;0.011965169;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Sphaerotilus;NA
+1008;ProPAneuk3;17;N68960_156;0.011595163;Bacteria;Bacteroidota;Bacteroidia;Bacteroidales;Rikenellaceae;SP3-e08;NA
+1009;ProCg2;17;N9216_1988;0.011278195;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter;NA
+1010;ProCk1;16;N9216_1988;0.011208854;Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter;NA
+1011;ProLFaltk1;9;N24739_2064;0.021411822;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Extensimonas;NA
+1012;ProPAaltg1;6;N19485_1064;0.016486382;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;Porticoccus;NA
+1013;ProPAneug3;14;N19485_1064;0.01300769;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Porticoccaceae;Porticoccus;NA
+1014;ProCk1;11;N24011_1136;0.018232123;Bacteria;Nitrospirota;Nitrospiria;Nitrospirales;Nitrospiraceae;Nitrospira;NA
+1015;ProCk3;13;N24011_1136;0.017154843;Bacteria;Nitrospirota;Nitrospiria;Nitrospirales;Nitrospiraceae;Nitrospira;NA
+1016;ProCg3;14;N53473_399;0.014127764;Bacteria;Firmicutes;Clostridia;Lachnospirales;Lachnospiraceae;Mobilisporobacter;NA
+1017;ProLAaltg2;9;N40784_685;0.009141494;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Candidatus Symbiobacter;NA
+1018;ProLFaltg2;10;N40784_685;0.018447837;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Candidatus Symbiobacter;NA
+1019;ProLFneug2;7;N40784_685;0.008832775;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Candidatus Symbiobacter;NA
+1020;ProPSaltg2;16;N40784_685;0.005806584;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Candidatus Symbiobacter;NA
+1021;ProCk1;18;N19944_564;0.010854143;Bacteria;Gemmatimonadota;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonadaceae Family;NA
+1022;ProCk3;6;N19944_564;0.026818488;Bacteria;Gemmatimonadota;Gemmatimonadetes;Gemmatimonadales;Gemmatimonadaceae;Gemmatimonadaceae Family;NA
+1023;ProCg3;12;N34648_3311;0.014332514;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1024;ProCk2;8;N34648_3311;0.018687979;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1025;ProCk3;7;N34648_3311;0.025320249;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1026;ProLAaltg1;13;N34648_3311;0.005866008;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1027;ProLAaltg3;10;N34648_3311;0.016199377;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1028;ProLAaltk2;15;N34648_3311;0.013673036;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1029;ProLAneug2;17;N34648_3311;0.00809307;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1030;ProLAneuk1;18;N34648_3311;0.013645224;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1031;ProLAneuk2;17;N34648_3311;0.007140307;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1032;ProLAneuk3;13;N34648_3311;0.014014566;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1033;ProLFaltg1;16;N34648_3311;0.011547344;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1034;ProLFaltk1;17;N34648_3311;0.013570724;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1035;ProPAaltg1;9;N34648_3311;0.014604168;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1036;ProPAaltg2;10;N34648_3311;0.013565028;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1037;ProPAaltg3;5;N34648_3311;0.020226884;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1038;ProPAaltk2;18;N34648_3311;0.011331445;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1039;ProPSaltg1;7;N34648_3311;0.023817596;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1040;ProPSaltg2;8;N34648_3311;0.010100184;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1041;ProPSaltg3;11;N34648_3311;0.005499542;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1042;ProPSneuk1;17;N34648_3311;0.009367974;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+1043;ProCg2;9;N11170_1429;0.020391889;Bacteria;Proteobacteria;Alphaproteobacteria;Paracaedibacterales;Paracaedibacteraceae;Candidatus Paracaedibacter;NA
+1044;ProPAaltk3;14;N11170_1429;0.013630614;Bacteria;Proteobacteria;Alphaproteobacteria;Paracaedibacterales;Paracaedibacteraceae;Candidatus Paracaedibacter;NA
+1045;ProPSneug1;9;N11170_1429;0.028839077;Bacteria;Proteobacteria;Alphaproteobacteria;Paracaedibacterales;Paracaedibacteraceae;Candidatus Paracaedibacter;NA
+1046;ProCg1;12;N2660_3583;0.012934721;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1047;ProCg2;6;N2660_3583;0.027682843;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1048;ProCg3;7;N2660_3583;0.027436527;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1049;ProCk1;20;N2660_3583;0.010570375;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1050;ProCk2;2;N2660_3583;0.037806762;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1051;ProCk3;9;N2660_3583;0.019776762;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1052;ProLAaltg2;18;N2660_3583;0.003775835;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1053;ProLAaltg3;20;N2660_3583;0.009241952;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1054;ProLAneuk1;21;N2660_3583;0.011695906;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1055;ProLAneuk3;15;N2660_3583;0.010317811;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1056;ProLFaltg1;8;N2660_3583;0.028579677;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1057;ProLFaltg3;9;N2660_3583;0.004132231;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1058;ProLFaltk1;6;N2660_3583;0.033072671;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1059;ProLFneug3;14;N2660_3583;0.002524978;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1060;ProPAaltg2;4;N2660_3583;0.025248775;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1061;ProPAaltg3;6;N2660_3583;0.020119863;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1062;ProPAaltk3;6;N2660_3583;0.024857685;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1063;ProPAneug1;9;N2660_3583;0.030245847;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1064;ProPAneug2;5;N2660_3583;0.032119983;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1065;ProPAneuk1;14;N2660_3583;0.013708514;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1066;ProPSaltg1;5;N2660_3583;0.027547042;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1067;ProPSaltg2;9;N2660_3583;0.009568595;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1068;ProPSaltg3;20;N2660_3583;0.003299725;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1069;ProPSaltk1;17;N2660_3583;0.008770281;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1070;ProPSaltk2;12;N2660_3583;0.01882567;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1071;ProPSaltk3;17;N2660_3583;0.010635496;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1072;ProPSneug1;11;N2660_3583;0.024489796;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1073;ProPSneuk1;11;N2660_3583;0.012740445;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+1074;ProCg1;14;N16290_2818;0.012493764;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Alicycliphilus;NA
+1075;ProCg3;5;N16290_2818;0.034193284;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Alicycliphilus;NA
+1076;ProCg2;16;N2811_5461;0.011392117;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1077;ProLFaltg3;13;N2811_5461;0.002911345;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1078;ProLFaltk1;2;N2811_5461;0.050155443;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1079;ProPAaltg1;5;N2811_5461;0.018799465;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1080;ProPAaltg2;20;N2811_5461;0.00628744;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1081;ProPAaltk3;7;N2811_5461;0.021758381;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1082;ProPSaltk1;5;N2811_5461;0.026373489;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1083;ProPSneug1;6;N2811_5461;0.034994982;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1084;ProPSneuk1;8;N2811_5461;0.023607295;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
+1085;ProCk1;14;N68404_76;0.01511067;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pir4 lineage;NA

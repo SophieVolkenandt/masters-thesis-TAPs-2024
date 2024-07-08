@@ -1,0 +1,101 @@
+;sample_type;tax_rank;taxid;abundance;Kingdom;Phylum;Class;Order;Family;Genus;Species
+1;control;4;N60685_25506;0.024466923;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;SH-PL14;NA
+2;car_all_weather;6;N43590_3596;0.024382725;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudohongiellaceae;Pseudohongiella;NA
+3;car_all_weather;10;N20846_17403;0.01444116;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+4;truck_driving_axle;5;N20846_17403;0.039051327;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+5;truck_front_axle;5;N20846_17403;0.019769833;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Nitrincolaceae;Corallomonas;NA
+6;control;8;N9811_1139;0.017480357;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Saprospiraceae;Saprospiraceae Family;NA
+7;car_summer;10;N28291_9527;0.0148228;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+8;truck_driving_axle;20;N28291_9527;0.008242069;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Kinneretia;NA
+9;car_all_weather;9;N29754_6766;0.01593553;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+10;car_summer;7;N29754_6766;0.01643144;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+11;truck_driving_axle;10;N29754_6766;0.019783603;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Hydrogenophaga;NA
+12;car_all_weather;2;N62214_45676;0.099589946;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+13;car_summer;1;N62214_45676;0.168889903;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+14;truck_driving_axle;3;N62214_45676;0.07828323;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+15;truck_front_axle;4;N62214_45676;0.048760725;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Comamonadaceae Family;NA
+16;car_all_weather;7;N52734_21877;0.018901412;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+17;truck_driving_axle;8;N52734_21877;0.022602259;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+18;truck_front_axle;14;N52734_21877;0.008713958;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Curvibacter;NA
+19;car_summer;14;N50894_9206;0.010276268;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+20;control;17;N50894_9206;0.01076533;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+21;truck_driving_axle;15;N50894_9206;0.014895691;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax;NA
+22;car_all_weather;20;N44349_2588;0.008326656;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Terrimonas;NA
+23;car_all_weather;1;N63424_189047;0.1365327;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+24;car_summer;2;N63424_189047;0.134583782;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+25;truck_driving_axle;1;N63424_189047;0.167182618;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+26;truck_front_axle;1;N63424_189047;0.358779525;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Alcanivoracaceae;Ketobacter;NA
+27;control;11;N69343_12286;0.015915203;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Noviherbaspirillum;NA
+28;car_summer;9;N65913_12447;0.015345438;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+29;truck_driving_axle;14;N65913_12447;0.015268741;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+30;truck_front_axle;13;N65913_12447;0.008768563;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Neisseriaceae;Neisseriaceae Family;NA
+31;truck_driving_axle;19;N15247_7213;0.008564221;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Oleiphilaceae;Oleiphilus;NA
+32;control;2;N8400_2662;0.029836722;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Planctomycetales Order;Planctomycetales Order;NA
+33;car_all_weather;8;N7386_14173;0.018044862;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+34;car_summer;6;N7386_14173;0.017607612;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+35;truck_front_axle;12;N7386_14173;0.01063334;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Chitinimonadaceae;Chitinivorax;NA
+36;control;18;N49137_1311;0.010220797;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellula;NA
+37;car_summer;18;N22382_8212;0.009055776;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+38;truck_front_axle;19;N22382_8212;0.007192405;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;NA
+39;control;12;N49583_4083;0.015516924;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Crocinitomicaceae;Fluviicola;NA
+40;car_all_weather;11;N67867_6805;0.014438095;Bacteria;Spirochaetota;Leptospirae;Leptospirales;Leptospiraceae;Leptospira;NA
+41;car_all_weather;17;N18370_3799;0.011167465;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Sutterellaceae;AAP99;NA
+42;car_all_weather;12;N29777_6890;0.013211686;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+43;car_summer;8;N29777_6890;0.01536777;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+44;control;9;N29777_6890;0.017342318;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+45;truck_driving_axle;12;N29777_6890;0.018048592;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+46;truck_front_axle;15;N29777_6890;0.008666672;Bacteria;Planctomycetota;vadinHA49;vadinHA49_unclassified;vadinHA49_unclassified;vadinHA49_unclassified;NA
+47;car_all_weather;5;N43880_36659;0.030952572;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+48;car_summer;4;N43880_36659;0.058817647;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+49;truck_driving_axle;11;N43880_36659;0.019696882;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+50;truck_front_axle;9;N43880_36659;0.015406467;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Halomonadaceae;HdN1;NA
+51;control;3;N20722_21612;0.02616516;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Gallionellaceae;Gallionellaceae Family;NA
+52;car_all_weather;14;N26188_13634;0.012321596;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+53;truck_driving_axle;17;N26188_13634;0.009536271;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+54;truck_front_axle;6;N26188_13634;0.017008072;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingorhabdus;NA
+55;control;14;N68082_1028;0.012889551;Bacteria;Acidobacteriota;Vicinamibacteria;Vicinamibacterales;Vicinamibacteraceae;Vicinamibacteraceae_unclassified;NA
+56;car_all_weather;4;N25198_18666;0.058004638;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+57;car_summer;5;N25198_18666;0.033100175;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+58;control;6;N25198_18666;0.021725728;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+59;truck_driving_axle;4;N25198_18666;0.04639966;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+60;truck_front_axle;2;N25198_18666;0.068741199;Bacteria;Bacteroidota;Bacteroidia;Flavobacteriales;Flavobacteriaceae;Flavobacterium;NA
+61;car_summer;12;N39163_9376;0.011067648;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Variovorax;NA
+62;truck_driving_axle;18;N3998_8408;0.009387458;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rubrivivax;NA
+63;truck_front_axle;18;N45007_6128;0.007886498;Bacteria;Bdellovibrionota;Bdellovibrionia;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio;NA
+64;car_all_weather;19;N57283_9103;0.010669832;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+65;control;1;N57283_9103;0.036827426;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagales Order;Chitinophagales Order;NA
+66;car_all_weather;3;N7337_71952;0.08454355;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+67;car_summer;3;N7337_71952;0.097950874;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+68;truck_driving_axle;2;N7337_71952;0.087062559;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+69;truck_front_axle;3;N7337_71952;0.055272478;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Aquabacterium;NA
+70;truck_driving_axle;16;N33364_2536;0.014110554;Bacteria;Myxococcota;Polyangia;Polyangiales;Sandaracinaceae;Sandaracinaceae Family;NA
+71;truck_driving_axle;7;N13529_5363;0.025550836;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+72;truck_front_axle;16;N13529_5363;0.008468999;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Rhizobacter;NA
+73;car_summer;19;N26526_6844;0.008636976;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+74;truck_driving_axle;13;N26526_6844;0.017399065;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+75;truck_front_axle;7;N26526_6844;0.016749445;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Rhodocyclaceae;Dechloromonas;NA
+76;truck_driving_axle;6;N57076_6136;0.03772498;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+77;truck_front_axle;10;N57076_6136;0.012020577;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Spongiibacteraceae;BD1-7 clade;NA
+78;car_all_weather;16;N29583_3982;0.011276626;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+79;car_summer;15;N29583_3982;0.009730741;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+80;truck_front_axle;17;N29583_3982;0.008266812;Bacteria;Bacteroidota;Bacteroidia;Sphingobacteriales;NS11-12 marine group;NS11-12 marine group_unclassified;NA
+81;truck_driving_axle;9;N33094_8853;0.020444995;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+82;truck_front_axle;8;N33094_8853;0.016363025;Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Permianibacter;NA
+83;control;20;N2155_2044;0.009798245;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Oxalobacteraceae;Massilia;NA
+84;control;7;N38436_1992;0.021493913;Bacteria;Planctomycetota;OM190;OM190_unclassified;OM190_unclassified;OM190_unclassified;NA
+85;control;16;N32525_12449;0.011080837;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Gallionellaceae;Sideroxydans;NA
+86;car_summer;17;N69818_2881;0.009279411;Bacteria;Proteobacteria;Gammaproteobacteria;Gammaproteobacteria Class;Gammaproteobacteria Class;Gammaproteobacteria Class;NA
+87;control;10;N65503_921;0.016095922;Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Candidatus Xenolissoclinum;NA
+88;car_all_weather;15;N4059_9819;0.011833622;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+89;car_summer;11;N4059_9819;0.01358911;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+90;truck_front_axle;11;N4059_9819;0.011216361;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Limnohabitans;NA
+91;car_all_weather;18;N14072_5763;0.010891931;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+92;car_summer;20;N14072_5763;0.008608209;Bacteria;Bacteroidota;Bacteroidia;Chitinophagales;Chitinophagaceae;Sediminibacterium;NA
+93;control;19;N25830_1230;0.009799568;Bacteria;Planctomycetota;Planctomycetes;Pirellulales;Pirellulaceae;Pirellulaceae Family;NA
+94;control;13;N7731_3937;0.015079933;Bacteria;Planctomycetota;Planctomycetes;Planctomycetales;Rubinisphaeraceae;Rubinisphaeraceae Family;NA
+95;control;15;N34648_3311;0.011202969;Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Arenimonas;NA
+96;car_all_weather;13;N2660_3583;0.012646814;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+97;car_summer;13;N2660_3583;0.01049645;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+98;control;5;N2660_3583;0.022701332;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+99;truck_front_axle;20;N2660_3583;0.006993109;Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium;NA
+100;car_summer;16;N2811_5461;0.009353714;Bacteria;Proteobacteria;Gammaproteobacteria;Burkholderiales;Comamonadaceae;Ideonella;NA
